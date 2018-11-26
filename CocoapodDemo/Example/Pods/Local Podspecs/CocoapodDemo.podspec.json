@@ -1,0 +1,22 @@
+{
+  "name": "CocoapodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of CocoapodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangfei/CocoapodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangfei": "wangfei0206wl@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wangfei/CocoapodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoapodDemo/Classes/**/*"
+}
